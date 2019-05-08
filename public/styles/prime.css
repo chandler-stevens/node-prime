@@ -1,0 +1,25 @@
+.matrix
+{
+	background: url("../images/matrix.png")
+	no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+input:invalid+span:after
+{
+	content: '✖';
+ 	padding-­left: 5px;
+}
+
+input:valid+span:after
+{
+	content: '✓';
+ 	padding-left: 5px;
+}
+
+.container {
+  background-color: #0f0f;
+}
