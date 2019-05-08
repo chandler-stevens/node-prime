@@ -1,0 +1,22 @@
+{
+  "name": "node-prime",
+  "version": "1.0.0",
+  "description": "Node application to check for prime numbers",
+  "main": "prime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandler-stevens/node-prime.git"
+  },
+  "author": "Chandler Stevens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandler-stevens/node-prime/issues"
+  },
+  "homepage": "https://github.com/chandler-stevens/node-prime#readme",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}
